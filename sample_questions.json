@@ -1,0 +1,153 @@
+{
+  "query": "solving equations",
+  "num_questions_generated": 5,
+  "questions": [
+    {
+      "question_id": 0,
+      "question_text": "What is the main goal when solving an equation?",
+      "options": [
+        {
+          "option_id": "A",
+          "text": "To get the variable on one side of the equation"
+        },
+        {
+          "option_id": "B",
+          "text": "To get the constant term on one side of the equation"
+        },
+        {
+          "option_id": "C",
+          "text": "To get the variable by itself on one side of the equation"
+        },
+        {
+          "option_id": "D",
+          "text": "To get the equation to equal zero"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The main goal when solving an equation is to isolate the variable, which means getting it by itself on one side of the equation. This allows us to find the value of the variable.",
+      "topic": "Solving Equations",
+      "difficulty": "easy",
+      "evaluation_score": 9,
+      "evaluation_feedback": "This question is clear, relevant, and tests understanding of the main goal when solving an equation. The options are plausible, and the explanation is accurate."
+    },
+    {
+      "question_id": 1,
+      "question_text": "What is the correct order of operations to follow when solving an equation?",
+      "options": [
+        {
+          "option_id": "A",
+          "text": "Parenthesis, exponents, multiplication/division, addition/subtraction"
+        },
+        {
+          "option_id": "B",
+          "text": "Addition/subtraction, multiplication/division, exponents, parenthesis"
+        },
+        {
+          "option_id": "C",
+          "text": "Multiplication/division, addition/subtraction, exponents, parenthesis"
+        },
+        {
+          "option_id": "D",
+          "text": "Exponents, parenthesis, multiplication/division, addition/subtraction"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "When solving an equation, we need to follow the reverse order of operations, which is parenthesis, exponents, multiplication/division, and then addition/subtraction. This ensures that we are 'undoing' the operations in the correct order.",
+      "topic": "Solving Equations",
+      "difficulty": "medium",
+      "evaluation_score": 8.5,
+      "evaluation_feedback": "This question is relevant and clear, but the options could be more plausible. The explanation is accurate, but could be more detailed."
+    },
+    {
+      "question_id": 2,
+      "question_text": "Solve the equation: 2(x - 1) = -3. What is the value of x?",
+      "options": [
+        {
+          "option_id": "A",
+          "text": "x = -1/2"
+        },
+        {
+          "option_id": "B",
+          "text": "x = 1/2"
+        },
+        {
+          "option_id": "C",
+          "text": "x = -3/2"
+        },
+        {
+          "option_id": "D",
+          "text": "x = 3/2"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "To solve the equation 2(x - 1) = -3, we need to distribute the 2 and then isolate x. Distributing the 2 gives us 2x - 2 = -3. Adding 2 to both sides gives us 2x = -1. Dividing both sides by 2 gives us x = -1/2.",
+      "topic": "Solving Equations",
+      "difficulty": "medium",
+      "evaluation_score": 8,
+      "evaluation_feedback": "This question is clear and relevant, but the options could be more plausible. The explanation is accurate, but could be more detailed."
+    },
+    {
+      "question_id": 3,
+      "question_text": "What is the quadratic formula used for?",
+      "options": [
+        {
+          "option_id": "A",
+          "text": "Solving linear equations"
+        },
+        {
+          "option_id": "B",
+          "text": "Solving quadratic equations"
+        },
+        {
+          "option_id": "C",
+          "text": "Solving systems of equations"
+        },
+        {
+          "option_id": "D",
+          "text": "Solving exponential equations"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The quadratic formula is used to solve quadratic equations of the form ax^2 + bx + c = 0. It provides a way to find the solutions to these equations when factoring is not possible.",
+      "topic": "Quadratic Formula",
+      "difficulty": "easy",
+      "evaluation_score": 8.5,
+      "evaluation_feedback": "This question is clear, relevant, and tests understanding of the quadratic formula. The options are plausible, and the explanation is accurate."
+    },
+    {
+      "question_id": 4,
+      "question_text": "Solve the system of equations by substitution: x = 3y, y = x + 4. What is the value of x?",
+      "options": [
+        {
+          "option_id": "A",
+          "text": "x = -6"
+        },
+        {
+          "option_id": "B",
+          "text": "x = -4"
+        },
+        {
+          "option_id": "C",
+          "text": "x = 2"
+        },
+        {
+          "option_id": "D",
+          "text": "x = 6"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "To solve the system of equations by substitution, we can substitute x = 3y into the second equation. This gives us y = 3y + 4. Subtracting 3y from both sides gives us -2y = 4. Dividing both sides by -2 gives us y = -2. Substituting y = -2 into the first equation gives us x = 3(-2), which simplifies to x = -6.",
+      "topic": "Systems of Equations",
+      "difficulty": "hard",
+      "evaluation_score": 7.5,
+      "evaluation_feedback": "This question is relevant and clear, but the options could be more plausible. The explanation is accurate, but could be more detailed."
+    }
+  ],
+  "retrieval_context": [
+    "1 times anything is \nitself).  So we need to take -1 \ntimes EVERYTHING  in the \nparenthesis, not just the first \nterm.  Once we have done \nthat, we can combine like \nterms and rewrite the \nexpression.\n\nSolving Equations  \n \nAn equa tion has an equa l sign.  The goal of solving equations is to get the \nvariable by itself, to SOLVE for x =.  In order to do this, we must “undo” \nwhat was done to the problem initially.  Follow reverse order of operations – \nlook for addition/subtraction first, then multiplication/division, then \nexponents, and parenthesis.  The important rule when solving an equation is \nto always do to one side of the equal sign  what we do  to the other . \n \nFor example  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nYour Turn:  2(x -1) = -3 \n \n  (you should get x = -1/2) Solve:  \nx + 9 = -6 \n \n    -9     -9 \n \n    x = -15 \n To solve an equation we need to get our \nvaria ble by itself.  To “move” the 9 to the \nother side, we need to subtract 9 from \nboth sides of the equal sign, since 9 was \nadded to x in the original problem.  Then \nwe have x + 9 – 9 = -6 – 9 so x + 0 = -15 \nor just x = -15. \n \nSolve:  \n5x – 7 = 2  \n \n     +7    +7  \n \n     5x = 9  \n \n      5x = 9  \n       5     5  \n \n       x = 9/5  \n When the equations get more \ncomplicated, just remember to “undo” \nwhat was done to the problem initially \nusing PEMDAS rules BACKWARDS \nand move one thing at a time to leave the \nterm with the variab le until the end.  \nThey subtract 7; so we add 7 (to both \nsides).  They multiply by 5; we divide by \nfive. \n \n    Solve:  \n7(x + 4) = 6x + 24  \ndistribute  \n \n7x + 28 = 6x + 24  \n     -28            - 28 \n \n        7x =  6x  - 4 \n        -6x   -6x \n \n          x = -4 \n When  there are variables on both sides of \nthe equation, add or subtract to move \nthem to the same side, then get the term \nwith the variable by itself.  Remember, \nwe can add together terms that are alike!",
+    "actly what we are looking \nfor.  Since the 4 must  be multiplied by the 2 in the first set of parentheses, \nit has to go in the other set of parenthesis.  \nThen solve both for 0 to find our solutions.\n\nSolving by the Quadratic Formula:  \n \n   x = \n24\n2b b ac\na\n  \n \n  \nFactoring can be  the easiest way to solve a quadratic equation when the \ncoefficient  of x2 is one. B ut as the equations get harder  there is another \nstrategy we can use.  The quadratic formula solves equations of the form:  \n   ax2 + bx + c = 0     ( the equation must be solved for zero).   \nwhere;  \n a is the coefficient ( “number” of x2’s we h ave) of x2 \n b is the coefficient (“ number ” of x’s we have ) of x, and  \n c is the constant term of our equation when solved for zero.  \n \nIn the equation, x2 + x – 6 = 0,  \na= 1, b= 1 and c= -6.  By substituting these values of a, b, and c into the \nquadratic for mula we are able to solve for x.  \n   x = \n24\n2b b ac\na\n  \n   \n21 (1) (4)(1)( 6)\n(2)(1)x\n  \n \n \n  \n1 1 ( 24)\n2x\n  \n \n \n  \n1 25\n2x\n  \n   \n  \n1 5 1 5\n22xx\n  \n   \n  \n64\n22xx\n  \n \n   x = -3, 2 \n \nMake sure that when b is \nsquared that it is in parenthes is.  \nIf it isn’t, and the value is \nnegative, we’ll get the wrong \nsolution.  \n \nBe careful with the signs inside \nthe radical.  Remember, \nnegative times a negative equals \na positive . \n \nNotice that there are TWO \nsolutions.",
+    ", so if we go \nup 3 and right 4 from the y -\nintercept we will arrive at another \npoint on the line, (4, 4).  \n \n Two points make a line, so connect \nthe points and we have the graph of  \n y = ¾ x + 1\n\nis called a system of equations .  The solution to a system of equation s must \nsatisf y both equations.  There are several different methods to accomplish \nthis.  We will review two : graphing  and substitution . \n \n \nGraphing:  \n \nWhat does the graph for a system of equations look like?  Well, o ne equation \nmakes a line, so two equations  make….two lines!  For the above example, \nthe graph would look like this:  \n \n \n \n \nSince each point on a line is a solution to the equation – the point that \nsatisfies both equations  is the point where they intersect.  The solution for \nthis system of equation s is the point (1,  2). \n \nYour turn:  Solve the system of equations by graphing:  \n  y = -1/2 x – 2 \n  y = -7/2 x + 4  \n \n[You should get (2, -3)] \n \n \nNote:  Often we  need to solve the equations for y -intercept form before \ngraph ing them.  \n \n y = 2x  \ny = -x + 3",
+    "2   \n \nThe point where the lines \nwill intersect is  (2, _)  \nBut since x = 2 , we can \nsubstitute 2 in for x in either \nof the equations and solve \nfor y to find the other value \nof our point (2, 3)\n\nYour turn:  solve by substitution:  \n  x = 3y  \n  y = x + 4  \n \n[You should get ( -6, -2)] \n \n \nLaws of Exponents  \n \nThe laws of exponents give us rules for dealing with powers of variables and \nnumbers that have the same base .  Here are some  of the basics.   \n \n \n \n \n Law  Explanation  Example  \nAn = (A*A*A*A… n \ntimes)  \n An exponent is a base \n(A) multiplied by itself n \ntimes.  54 = 5*5*5*5 = 625  \nAm*An = Am+n  \n When multiplying two \npowers, add the \nexponents.  x5*x2 = x7  \n(Am)n = Am*n  \n When raising a power to \nanother power, multiply \nthe exponents.  (y4)2 =  \n \nAn = An-m  \nAm \n When dividing powers, \nsubtract the power of the \ndenominator(bottom)  \nexponent from the \nnumerator(upper)  one. 23 = \n322\n = \n12=2 \n22 \n \nA0 = 1 \n Any number raised to the \npower of 0 equals 1  5870 = 1 \n \nA-n = 1 \n         An  \n When you have a \nnegative exponent, it \nmeans inverse , (the \nnegative exponent is an \noperation that “flips” \nonly the base that it \napplies to).  x-3 = 1    \n         x3      \n \n3\n355xx",
+    "by graphing:  \n  y = -1/2 x – 2 \n  y = -7/2 x + 4  \n \n[You should get (2, -3)] \n \n \nNote:  Often we  need to solve the equations for y -intercept form before \ngraph ing them.  \n \n y = 2x  \ny = -x + 3\n\nSubstitution:  \n \nWe can also solve systems of equations by substitution.   Let’s look at \nanother example : \n-2x + y = -1 \n    x – 2y = -4 \nTo use the substitution method, we first need to solve one equation for either \nx or y.  Looking at the equations, the first one could easily be solved for y \nwithout dividing, or the second equation could be solved for x.  Either \nchoice works fine.  Let’s start with the first equation.  \n \n-2x + y = -1 \n +2x          +2x \n                   y = 2x -1 \n \nSo our two equations now look like this:  \n y = 2x -1 \n x – 2y = -4 \n \nNow we know y is equal to 2x – 1.  We can SUBSTITUTE this equality for \ny in the second equation.  \n \n y = 2x -1 \n \n x – 2y = -4 \n \n \nx  - 2(2x – 1) = -4  \n           x - 4x + 2 = -4 \n                        -2    -2 \n \n -3x = -6 \n  -3    -3 \n \n x = 2  \n \n y = 2( 2) - 1  \n y = 4 – 1 \n y = 3  \n We know that y = 2x - 1, so \nanywhere we see y in the \nother equation,  we \nsubstitute   2x - 1.   \n \nDon’t forget to distribute \nyour negative sign…  \n \nNow we know half the \nsolution, x = 2   \n \nThe point where the lines \nwill intersect is  (2, _)  \nBut since x = 2 , we can \nsubstitute 2 in for x in either \nof the equations and solve \nfor y to find the other value \nof our point (2, 3)"
+  ]
+}
